@@ -12,10 +12,10 @@ Je termine bientôt mon parcours en Développement d'applications au Collège de
 
 | Domaine       | Technologies |
 |---------------|--------------|
-| Programmation          | Python, Java, Rust, C# |
-| Programmation web         | HTML, CSS, Tailwind CSS, JavaScript |
-| Frameworks | Vue.js, Next.js, Node.js, Express.js | 
-| Bases de données    | PostgreSQL, MySQL, MongoDB     | 
+| Programmation          | Python, Java, JavaScript, TypeScript, Rust, C# |
+| Programmation web         | HTML, CSS, Tailwind CSS |
+| Frameworks et runtime | Vue.js, Next.js, Node.js, Express.js | 
+| Bases de données et ORM   | PostgreSQL, MySQL, MongoDB, Prisma    | 
 | Contrôle de version        | Git, Perforce     |
 | Scrum | Jira, GitHub Projects, Teams, Confluence, Miro, Figma, Slack |
 | Engins de jeu | Unity, Unreal 5 |
