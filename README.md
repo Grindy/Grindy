@@ -14,7 +14,7 @@ Je termine bientôt mon parcours en Développement d'applications au Collège de
 |---------------|--------------|
 | Programmation          | Python, Java, Rust, C# |
 | Programmation web         | HTML, CSS, Tailwind CSS, JavaScript |
-| Frameworkds | Vue.js, Next.js, Node.js, Express.js | 
+| Frameworks | Vue.js, Next.js, Node.js, Express.js | 
 | Bases de données    | PostgreSQL, MySQL, MongoDB     | 
 | Contrôle de version        | Git, Perforce     |
 | Scrum | Jira, GitHub Projects, Teams, Confluence, Miro, Figma, Slack |
