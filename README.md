@@ -36,6 +36,7 @@ Je termine bientôt mon parcours en Développement d'applications au Collège de
 - J'habite la Baie-James, un endroit où vous n'irez probablement jamais.
 - Je suis apiculteur, je gère une dizaine de ruches.
 - J'adore les hobbies artistiques comme la peinture de miniatures, l'impression 3D et le dessin.
+- J'ai oeuvré 10 ans comme artiste 3D en jeux vidéo.
 - J'aime la pêche et la course à pieds.
 <!--
 **Grindy/Grindy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
